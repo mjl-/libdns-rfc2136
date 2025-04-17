@@ -1,4 +1,4 @@
-module github.com/libdns/rfc2136
+module github.com/mjl-/libdns-rfc2136
 
 go 1.18
 
